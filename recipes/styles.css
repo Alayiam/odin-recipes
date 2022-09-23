@@ -1,0 +1,39 @@
+.img {
+    height: 400px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 7px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.title {
+  text-align: center;
+  font-family:'Gill Sans', sans-serif;
+  text-decoration-line: underline;
+}
+
+p,h1,h2,h3,{
+    text-align: center;
+}
+
+ul,ol {
+    margin: 0 auto;
+    padding: 10px;
+    list-style-type: none;
+    text-align: center;
+}
+
+.ingedients {
+    border-style: solid;
+    box-sizing: border-box;
+    margin-left: 250px;
+    margin-right: 250px;
+    padding-bottom: 5px;
+
+}
+
+.directions {
+    border-style: solid;
+    box-sizing: border-box;
+}
